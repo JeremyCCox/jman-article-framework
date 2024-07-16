@@ -1,0 +1,14 @@
+{
+  "name": "jman-article-framework",
+  "version": "1.0.0",
+  "description": "Article creation module for NextJS applications,Compatible with cloudflare pages & standard NextJS serverside computing. can use Mongoose or the Mongodb data api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Cox",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
