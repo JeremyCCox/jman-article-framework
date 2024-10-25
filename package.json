@@ -10,5 +10,12 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "isomorphic-dompurify": "^2.16.0",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.7.2",
+    "react-query": "^3.39.3",
+    "use-debounce": "^10.0.4"
   }
 }
